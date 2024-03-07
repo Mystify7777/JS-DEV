@@ -1,0 +1,1 @@
+let firstName="Aryan",lastName="Kumar",maritalStatus="Single",country="India",age =20;

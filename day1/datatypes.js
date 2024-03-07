@@ -1,0 +1,13 @@
+let string="This is a string.";
+let boolean=true;
+let undef=undefined;
+let num=null;
+let num1= 123;
+let num2= 1.23;
+console.log(typeof(string));
+console.log(typeof(boolean));
+console.log(typeof(undef));
+console.log(typeof(num));
+console.log(typeof(num1));
+console.log(typeof(num2));
+console.log(num);
