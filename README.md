@@ -15,11 +15,11 @@
 
 ## Day 2
 
-### EASY
+#### EASY
 
 - Q.1-Q.25 - [assignment.js](/day2/easy/assignment.js)
 
-### MEDIUM
+#### MEDIUM
 
 1. - [asgnmnt1](/day2/medium/asgnmnt1.js)
 2. - [asgnmnt2](/day2/medium/asgnmnt2.js)
@@ -34,7 +34,7 @@
 11. - [asgnmnt11](/day2/medium/asgnmnt11.js)
 12. - [asgnmnt12](/day2/medium/asgnmnt12.js)
 
-### HARD
+#### HARD
 
 - Q.1 - [Q1.js](day2/hard/Q1.js)
 - Q.2 - [Q2.js](day2/hard/Q2.js)
