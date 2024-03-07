@@ -21,18 +21,18 @@
 
 ### MEDIUM
 
-1. - [asgnmnt1](day2/medium/asgnmnt1)
-2. - [asgnmnt2](day2/medium/asgnmnt2)
-3. - [asgnmnt3](day2/medium/asgnmnt3)
-4. - [asgnmnt4](day2/medium/asgnmnt4)
-5. - [asgnmnt5](day2/medium/asgnmnt5)
-6. - [asgnmnt6](day2/medium/asgnmnt6)
-7. - [asgnmnt7](day2/medium/asgnmnt7)
-8. - [asgnmnt8](day2/medium/asgnmnt8)
-9. - [asgnmnt9](day2/medium/asgnmnt9)
-10. - [asgnmnt10](day2/medium/asgnmnt10)
-11. - [asgnmnt11](day2/medium/asgnmnt11)
-12. - [asgnmnt12](day2/medium/asgnmnt12)
+1. - [asgnmnt1](/day2/medium/asgnmnt1)
+2. - [asgnmnt2](/day2/medium/asgnmnt2)
+3. - [asgnmnt3](/day2/medium/asgnmnt3)
+4. - [asgnmnt4](/day2/medium/asgnmnt4)
+5. - [asgnmnt5](/day2/medium/asgnmnt5)
+6. - [asgnmnt6](/day2/medium/asgnmnt6)
+7. - [asgnmnt7]/(day2/medium/asgnmnt7)
+8. - [asgnmnt8](/day2/medium/asgnmnt8)
+9. - [asgnmnt9](/day2/medium/asgnmnt9)
+10. - [asgnmnt10](/day2/medium/asgnmnt10)
+11. - [asgnmnt11](/day2/medium/asgnmnt11)
+12. - [asgnmnt12](/day2/medium/asgnmnt12)
 
 ### HARD
 
