@@ -75,3 +75,23 @@
 #### HARD
 
 - Q.1 - [1.js](day3/hard/1.js)
+
+## Day 4
+
+#### EASY
+
+1. - [Problem-1.js](/day4/easy/Q1.js)
+2. - [Problem-2.js](/day4/easy/Q2.js)
+3. - [Problem-3.js](/day4/easy/Q3.js)
+4. - [Problem-4.js](/day4/easy/Q4.js)
+  
+#### MEDIUM
+
+1. - [Problem-1.js](/day4/medium/Q1.js)
+2. - [Problem-2.js](/day4/medium/Q2.js)
+3. - [Problem-3.js](/day4/medium/Q3.js)
+  
+#### HARD
+
+1. - [Problem-1.js](/day4/hard/Q1.js)
+2. - [Problem-2.js](/day4/hard/Q2.js)
