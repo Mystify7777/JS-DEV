@@ -95,3 +95,27 @@
 
 1. - [Problem-1.js](/day4/hard/Q1.js)
 2. - [Problem-2.js](/day4/hard/Q2.js)
+  
+## Day 5
+
+#### EASY
+
+1. - [Part-1.js (Problem 01-05)](/day5/easy/part_1.js)
+2. - [Part-2.js (Problem 06-23)](/day5/easy/part_2.js)
+  
+#### MEDIUM
+
+1. - [Problem-1.js](/day5/medium/q1/main.js)
+2. - [Problem-2.js](/day5/medium/q2/string_manipulation.js)
+3. - [Problem-3.js](/day5/medium/q3/shopping_cart.js)
+4. - [Problem-4.js](/day5/medium/q4/searchCountries.js)
+5. - [Problem-5.js](/day5/medium/q5/search_webtech.js)
+6. - [Problem-6.js](/day5/medium/q6/concatenate.js)
+  
+#### HARD
+
+1. - [Problem-1.js](/day5/hard/student_ages.js)
+2. - [Problem-2.js](/day5/hard/slicecountries.js)
+3. - [Problem-3.js](/day5/hard/middlecountry.js)
+4. - [Problem-4.js](/day5/hard/splitcountries.js)
+
