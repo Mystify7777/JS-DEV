@@ -159,7 +159,7 @@ const likeProduct = (productId, userId) => {
         console.log("Product liked successfully!");
     }
 };
-
+//demonstration
 signUp('Ash', 'ash.ketchum@gmail.com', 'pikachuIsmyhomie2');
 signIn('alice@gmail.com', 'pikachuIsmyhomie2');
 signIn('ash.ketchum@gmail.com', 'pikachuIsmyhomie');
